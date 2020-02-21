@@ -37,7 +37,7 @@ const CountryDetail = props => {
                   <ul>
                     <li>
                       <Link to={`/${countries}`}>
-                        {borderCountry.name.common}
+                        {borderCountry.flag} {borderCountry.name.common}
                       </Link>
                     </li>
                   </ul>

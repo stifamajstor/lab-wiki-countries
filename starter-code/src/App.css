@@ -8,6 +8,14 @@
   background-color: aquamarine;
 }
 
+.navbar-brand {
+  color: white;
+}
+
+.my-active {
+  background-color: aquamarine;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
